@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Amine Korichi
-An Engineer with a solid backgroung in Engineering Design, Systems Integration and Leadership roles.
+An Engineer with a solid backgroung in Engineering Design, Systems Integration and Project Management roles.
 
 ## Technical Skills
 - **Programming Languages**: C#, Python, HTML/CSS.
